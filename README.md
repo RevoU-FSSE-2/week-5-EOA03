@@ -17,9 +17,9 @@ This week, the project milestone is to create a company profile page using HTML 
 - CSS
 - Javascript
 - Internal Sources
-  ⁕ Images
+  * Images
 - External Sources
-  ⁕ Icons
+  * Icons
 
 ## DETAILS
 
